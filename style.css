@@ -45,3 +45,8 @@ body {
 #program-color {
   color: orangered;
 }
+.first-section {
+  display: flex;
+  width: 100%;
+  padding-left: 5%;
+}
